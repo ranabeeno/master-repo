@@ -1,2 +1,17 @@
-# master-repo
-GitHub Bangla-র সব এপিসোডের মাস্টার ইনডেক্স — প্রতিদিনের সেরা GitHub Repo এক জায়গায় 📚
+# 📚 GitHub Bangla — Master Repo
+
+আসসালামু আলাইকুম! 👋 এটা **GitHub Bangla**-র মাস্টার ইনডেক্স — আমাদের প্রতিদিনের ভিডিওতে দেখানো সেরা GitHub Repository গুলো এখানে এপিসোড অনুযায়ী সাজানো থাকে।
+
+⭐ ভালো লাগলে এই Repo-তে একটা **Star** দিয়ে রাখো — নতুন EP যোগ হলেই এখানে আপডেট পেয়ে যাবে!
+
+## 🎬 সব এপিসোড
+
+| EP | তারিখ | Repository | ⭐ Star | Facebook | YouTube |
+|----|-------|------------|--------|----------|---------|
+| EP-1 | 2026-10-22 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) — ফ্রি-তে পুরো প্রোগ্রামিং শেখা যায় | 457,683 | [Reel দেখো](https://facebook.com/reel/1653171169554629/) | [Shorts দেখো](https://youtube.com/shorts/fSw0xIW8HdI) |
+
+## 📌 আমাদের পেজ ও চ্যানেল
+- Facebook Page: GitHub Bangla (github ultra)
+- YouTube: https://www.youtube.com/@githubbd
+
+প্রতিদিন নতুন EP যোগ হয় — চোখ রাখো! 🚀
